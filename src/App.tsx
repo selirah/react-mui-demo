@@ -1,10 +1,10 @@
 import './App.css'
-import { MuiImageList } from './components/MuiImageList'
+import { MuiTable } from './components/MuiTable'
 
 function App() {
   return (
     <div className="App">
-      <MuiImageList />
+      <MuiTable />
     </div>
   )
 }
