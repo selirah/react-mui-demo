@@ -1,10 +1,10 @@
 import './App.css'
-import { MuiTable } from './components/MuiTable'
+import { MuiSkeleton } from './components/MuiSkeleton'
 
 function App() {
   return (
     <div className="App">
-      <MuiTable />
+      <MuiSkeleton />
     </div>
   )
 }
